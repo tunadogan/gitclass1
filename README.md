@@ -4,4 +4,5 @@ me: hayatımın en garip zamanlarını yaşıyordum. aslında imrenilecek bir ha
 akabinde bir fırtına sonrası kendimle yüzleşme fırsatı buldum. şimdi daha fazla tanıyorum kendimi. yeni yeni yenilenme.
 
 -biraz daha açarmısın, bana kendinden bahset lütfen.
+me: şimdi müsait değilim ama söz anlatcam.
 
