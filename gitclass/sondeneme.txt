@@ -1,0 +1,2 @@
+merhaba
+ben bu dosyayı consoldan oluşturdum. ve değiştiriyorum şimdi.
