@@ -1,0 +1,11 @@
+Banana
+Orange
+Apple
+Strawberry
+Cherry
+lemonBanana
+Orange
+Apple
+Strawberry
+Cherry
+lemon
